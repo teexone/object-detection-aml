@@ -31,16 +31,17 @@ I trained both models following roboflow tutorials: [YOLOv8](https://blog.robofl
 
 <div style="width: 100%; display: flex; flex-direction: column; align-items: center; margin-bottom: 4em">
     <img src="./img/screen2.png" width=700>
-    <span><i>YOLO v8 output</i></span>
 </div>
+<p align="center"><i>YOLO v8 output</i></span>
 
 <div style="width: 100%; display: flex; flex-direction: column; align-items: center; margin-bottom: 4em">
    <div style="width: 100%; display: flex; justify-content: center">
         <img src="./img/screen3.png" width=350>
         <img src="./img/screen4.png" width=350>
     </div>
-    <span><i>Faster R-CNN output</i></span>
 </div>
+<p align="center"><i>Faster R-CNN output</i></span>
+
 
 You can find full outputs in the notebook
 
